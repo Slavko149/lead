@@ -1,0 +1,19 @@
+<svg preserveAspectRatio="xMidYMid meet" data-bbox="7.6 11.3 127.6 119" viewBox="7.6 11.3 127.6 119" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" data-type="color" role="presentation" aria-hidden="true" aria-labelledby="svgcid-dpv6j0-o8rft8"><title id="svgcid-dpv6j0-o8rft8"/>
+    <g>
+        <defs>
+            <path id="svgcid--vy0hcadynw0p" d="M135.2 7.1v127.5H7.7V7.1h127.5z"/>
+        </defs>
+        <clipPath id="svgcid--jo5d1-k2wqu9">
+            <use xlink:href="#svgcid--vy0hcadynw0p" overflow="visible"/>
+        </clipPath>
+        <g clip-path="url(#svgcid--jo5d1-k2wqu9)">
+            <path d="m120.8 71.5-13.9-21.4c-1.1-1.7-2.9-2.7-4.9-2.7H40.9c-2 0-3.8 1-4.9 2.6L22.1 71.5c-1.4 2.2-1.2 5.1.5 7l44.5 49.9c1.1 1.2 2.7 1.9 4.3 1.9 1.7 0 3.2-.7 4.3-1.9l44.5-49.9c1.8-1.9 2-4.8.6-7zM99.2 52.4l-11.7 18-11.7-18h23.4zM83 72.5H59.9l11.6-17.9L83 72.5zM67 52.4l-11.6 18-11.6-18H67zm-27.9 2.1 11.7 18.1H27.3l11.8-18.1zm-10.7 23h25.1l13.2 43-38.3-43zm43 41.5L58.7 77.5h25.5L71.4 119zm4.8 1.5 13.3-43h25.1l-38.4 43zm15.9-48 11.7-18.1 11.7 18.1H92.1z" fill="#121212" data-color="1"/>
+            <path d="M15.2 72.6h-5.1c-1.4 0-2.5 1.1-2.5 2.5s1.1 2.5 2.5 2.5h5.1c1.4 0 2.5-1.1 2.5-2.5s-1.1-2.5-2.5-2.5z" fill="#ffd301" data-color="2"/>
+            <path d="M132.7 72.6h-5.1c-1.4 0-2.5 1.1-2.5 2.5s1.1 2.5 2.5 2.5h5.1c1.4 0 2.5-1.1 2.5-2.5s-1.1-2.5-2.5-2.5z" fill="#ffd301" data-color="2"/>
+            <path d="M116.5 30c-1-1-2.5-1-3.5 0l-8.3 8.3c-1 1-1 2.5 0 3.5.5.5 1.1.7 1.8.7.6 0 1.3-.2 1.8-.7l8.3-8.3c.9-1 .9-2.5-.1-3.5z" fill="#ffd301" data-color="2"/>
+            <path d="M38.2 38.2 30 29.9c-1-1-2.5-1-3.5 0s-1 2.5 0 3.5l8.3 8.3c.5.5 1.1.7 1.8.7.6 0 1.3-.2 1.8-.7.8-.9.8-2.5-.2-3.5z" fill="#ffd301" data-color="2"/>
+            <path d="M71.5 11.3c-1.4 0-2.5 1.1-2.5 2.5V30c0 1.4 1.1 2.5 2.5 2.5S74 31.4 74 30V13.8c0-1.4-1.1-2.5-2.5-2.5z" fill="#ffd301" data-color="2"/>
+            <path d="M73.3 36.7c-.5-.5-1.1-.7-1.8-.7s-1.3.3-1.8.7c-.5.5-.7 1.1-.7 1.8s.3 1.3.7 1.8c.5.5 1.1.7 1.8.7s1.3-.3 1.8-.7c.5-.5.7-1.1.7-1.8s-.3-1.4-.7-1.8z" fill="#ffd301" data-color="2"/>
+        </g>
+    </g>
+</svg>

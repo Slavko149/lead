@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Ruberoid Semi';
+    src: url('Ruberoid-SemiBold.woff2') format('woff2'),
+        url('Ruberoid-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
